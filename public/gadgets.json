@@ -2,7 +2,7 @@
     {
       "product_id": "P001",
       "product_title": "Apple iPhone 15 Pro Max",
-      "product_image": "https://i.ibb.co.com/gR7y71G/P001.jpg",
+      "product_image": "https://i.ibb.co.com/wSz77bd/P001.png",
       "category": "Smartphones",
       "price": 1299,
       "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
@@ -19,7 +19,7 @@
     {
       "product_id": "P002",
       "product_title": "Samsung Galaxy S23 Ultra",
-      "product_image": "https://i.ibb.co.com/0m04YLz/P002.png",
+      "product_image": "https://i.ibb.co.com/6HcKks1/P002.jpg",
       "category": "Smartphones",
       "price": 1199,
       "description": "The Samsung Galaxy S23 Ultra combines cutting-edge technology with a sleek design.",
@@ -36,7 +36,7 @@
     {
       "product_id": "P003",
       "product_title": "Google Pixel 8 Pro",
-      "product_image": "https://i.ibb.co.com/Gd24kZK/P007.png",
+      "product_image": "https://i.ibb.co.com/HGzLjYw/P007.webp",
       "category": "Smartphones",
       "price": 899,
       "description": "The Google Pixel 8 Pro offers advanced AI features and a top-notch camera.",
@@ -53,7 +53,7 @@
     {
       "product_id": "P004",
       "product_title": "Asus ROG Phone 6",
-      "product_image": "https://i.ibb.co.com/pLsrg1C/P0012.webp",
+      "product_image": "https://i.ibb.co.com/8KT2gS1/P0012.webp",
       "category": "Smartphones",
       "price": 899,
       "description": "Gaming-focused smartphone with high-performance specs.",
@@ -70,7 +70,7 @@
     {
       "product_id": "P005",
       "product_title": "OnePlus 11",
-      "product_image": "https://i.ibb.co.com/k30FRX8/P007.jpg",
+      "product_image": "https://i.ibb.co.com/6HcKks1/P002.jpg",
       "category": "Smartphones",
       "price": 729,
       "description": "Flagship-level performance with OnePlus's signature smooth experience.",
@@ -87,7 +87,7 @@
     {
       "product_id": "P006",
       "product_title": "Sony Xperia 5 V",
-      "product_image": "https://i.ibb.co.com/WDtSDR7/P0012.jpg",
+      "product_image": "https://i.ibb.co/WDtSDR7/P0012.jpg",
       "category": "Smartphones",
       "price": 799,
       "description": "Compact powerhouse with Sony's latest imaging technology.",
@@ -104,7 +104,7 @@
     {
       "product_id": "P007",
       "product_title": "MacBook Pro 14-inch",
-      "product_image": "https://i.ibb.co.com/ZmNrqjv/P008.webp",
+      "product_image": "https://i.ibb.co.com/z6NDSBD/P0014.webp",
       "category": "Laptops",
       "price": 1999,
       "description": "Powerful performance meets portability in the MacBook Pro 14-inch.",
@@ -121,7 +121,7 @@
     {
       "product_id": "P008",
       "product_title": "Dell Inspiron 15",
-      "product_image": "https://i.ibb.co.com/Wtc8879/P0010.png",
+      "product_image": "https://i.ibb.co.com/zGx1Ftt/P0010.webp",
       "category": "Laptops",
       "price": 649,
       "description": "Affordable yet powerful laptop suitable for daily tasks and productivity.",
@@ -138,7 +138,7 @@
     {
       "product_id": "P009",
       "product_title": "Sony WH-1000XM5 Headphones",
-      "product_image": "https://i.ibb.co.com/dMzvx5s/P005.jpg",
+      "product_image": "https://i.ibb.co.com/N7RYJvN/P005.jpg",
       "category": "Accessories",
       "price": 349,
       "description": "Industry-leading noise-canceling headphones with superior sound quality.",
@@ -155,7 +155,7 @@
     {
       "product_id": "P010",
       "product_title": "Apple AirPods Pro 2nd Gen",
-      "product_image": "https://i.ibb.co.com/Tt4mSPG/P0013.webp",
+      "product_image": "https://i.ibb.co.com/sV8Q5bZ/P0013.png",
       "category": "Accessories",
       "price": 249,
       "description": "Apple's best noise-canceling wireless earbuds with improved sound.",
@@ -172,7 +172,7 @@
     {
       "product_id": "P011",
       "product_title": "iPad Pro 12.9",
-      "product_image": "https://i.ibb.co.com/ZmNrqjv/P0015.webp",
+      "product_image": "https://i.ibb.co.com/1JnBkpq/P0015.png",
       "category": "Tablets",
       "price": 1099,
       "description": "The ultimate iPad for professionals with exceptional power and display.",
@@ -189,7 +189,7 @@
     {
       "product_id": "P012",
       "product_title": "Samsung Galaxy Tab S9",
-      "product_image": "https://i.ibb.co.com/rcCJKWd/P0015.webp",
+      "product_image": "https://i.ibb.co.com/1JnBkpq/P0015.png",
       "category": "Tablets",
       "price": 799,
       "description": "A high-end tablet with exceptional display and performance for multitasking.",
@@ -206,8 +206,8 @@
     {
       "product_id": "P013",
       "product_title": "Microsoft Surface Pro 9",
-      "product_image": "https://i.ibb.co.com/8NV9HzR/P003.png",
-      "category": "Tablets",
+      "product_image": "https://i.ibb.co/8NV9HzR/P003.png",
+      "category": "Laptops",
       "price": 999,
       "description": "Versatile 2-in-1 tablet with a detachable keyboard and powerful performance.",
       "specification": [
@@ -223,7 +223,7 @@
     {
       "product_id": "P014",
       "product_title": "Fitbit Charge 5",
-      "product_image": "https://i.ibb.co.com/1sJMH9Z/P009.webp",
+      "product_image": "https://i.ibb.co/1sJMH9Z/P009.webp",
       "category": "Accessories",
       "price": 129,
       "description": "Advanced fitness tracker with health and wellness features.",
@@ -240,8 +240,8 @@
     {
       "product_id": "P015",
       "product_title": "Lenovo ThinkPad X1 Carbon Gen 10",
-      "product_image": "https://i.ibb.co.com/6bC6Fb5/P0015.png",
-      "category": "Laptops",
+      "product_image": "https://i.ibb.co/6bC6Fb5/P0015.png",
+      "category": "Tablets",
       "price": 1499,
       "description": "High-performance laptop with a sleek design and advanced security.",
       "specification": [
