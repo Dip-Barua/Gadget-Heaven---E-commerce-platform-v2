@@ -32,9 +32,9 @@ const Banner = () => {
         </div>
       </div>
       <div>
-        <div className="bg-border my-20 p-3 border-2 w-6/12  text-center  mx-auto rounded-3xl backdrop-blur-md -mt-60">
+        <div className="bg-border my-20 p-4 border-2 w-6/12  text-center bg-[#ffffff9c] mx-auto rounded-3xl backdrop-blur-lg -mt-60">
           <img
-            className=" mx-auto rounded-2xl  w-full h-[25rem] object-cover"
+            className=" mx-auto rounded-2xl  w-full h-[30rem]  object-cover"
             src={Bannerimg}
             alt=""
           />

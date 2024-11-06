@@ -110,7 +110,6 @@ const GadgetDetails = () => {
                     disabled={isWishlistDisabled}
                   >
                     <FaRegHeart />
-                    {isWishlistDisabled ? 'Added to Wishlist' : 'Add to Wishlist'}
                   </button>
                 </div>
               </div>
