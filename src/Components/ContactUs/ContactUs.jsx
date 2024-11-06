@@ -37,7 +37,7 @@ const ContactUs = () => {
     return (
         <div className="container mx-auto px-4 py-8 mt-20 ">
               <Helmet>
-        <title>Dashboard - GadgetHaven</title>
+        <title>Contact Us - GadgetHaven</title>
         <meta name="description" content="Manage your cart and wishlist items on GadgetHaven." />
       </Helmet>
             <div className="py-8 bg-[#1313130D] rounded-xl mb-1">
