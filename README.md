@@ -2,6 +2,10 @@
 
 Welcome to **GadgetHaven**, an e-commerce platform designed for buying and managing gadgets, such as smart devices and accessories. The platform is designed to offer a seamless and intuitive experience for users to explore, manage their shopping cart, and wishlist items.
 
+
+![image](https://github.com/user-attachments/assets/90a345e6-6505-4bf8-8203-f896bd4cdde1)
+
+
 ## Live Website Link
 [**Visit GadgetHaven**](https://gadgetheaven-ph8thassignment.netlify.app/)  
 
